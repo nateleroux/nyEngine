@@ -1,3 +1,9 @@
+/*
+Name: Var.h
+Author: Nathan LeRoux
+Purpose: See Var.cpp
+*/
+
 #ifndef _VAR_H
 #define _VAR_H
 

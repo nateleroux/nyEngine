@@ -1,3 +1,9 @@
+/*
+Name: CMapArchive.h
+Author: Nathan LeRoux
+Purpose: See CMapArchive.cpp
+*/
+
 #ifndef _CMAPARCHIVE_H
 #define _CMAPARCHIVE_H
 

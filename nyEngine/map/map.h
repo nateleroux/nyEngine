@@ -1,3 +1,9 @@
+/*
+Name: map.h
+Author: Nathan LeRoux
+Purpose: See map.cpp
+*/
+
 #ifndef _MAP_H
 #define _MAP_H
 

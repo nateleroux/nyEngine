@@ -1,3 +1,9 @@
+/*
+Name: luaStore.cpp
+Author: Nathan LeRoux
+Purpose: Saving script state
+*/
+
 #define LUA_CORE
 
 #if 0

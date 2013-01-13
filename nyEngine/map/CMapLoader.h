@@ -1,3 +1,9 @@
+/*
+Name: CMapLoader.h
+Author: Nathan LeRoux
+Purpose: See CMapLoader.cpp
+*/
+
 #ifndef _CMAPLOADER_H
 #define _CMAPLOADER_H
 

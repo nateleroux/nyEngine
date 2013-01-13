@@ -1,3 +1,9 @@
+/*
+Name: file.h
+Author: Nathan LeRoux
+Purpose: See file.cpp
+*/
+
 #ifndef _FILE_H
 #define _FILE_H
 

@@ -1,3 +1,9 @@
+/*
+Name: dbg.h
+Author: Nathan LeRoux
+Purpose: See dbg.cpp
+*/
+
 #ifndef _DBG_H
 #define _DBG_H
 

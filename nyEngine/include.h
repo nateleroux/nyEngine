@@ -1,3 +1,9 @@
+/*
+Name: include.h
+Author: Nathan LeRoux
+Purpose: Define types, include files
+*/
+
 #ifndef _INCLUDE_H
 #define _INCLUDE_H
 

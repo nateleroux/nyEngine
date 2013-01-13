@@ -1,3 +1,9 @@
+/*
+Name: GorillaLua.cpp
+Author: Nathan LeRoux
+Purpose: Lua UI stuff (currently incomplete)
+*/
+
 #include "..\include.h"
 #include "..\lua\lua.hpp"
 #include "Gorilla.h"

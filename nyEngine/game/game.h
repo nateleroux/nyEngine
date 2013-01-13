@@ -1,3 +1,9 @@
+/*
+Name: game.h
+Author: Nathan LeRoux
+Purpose: See game.cpp
+*/
+
 #ifndef _GAME_H
 #define _GAME_H
 

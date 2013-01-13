@@ -1,3 +1,9 @@
+/*
+Name: lock.h
+Author: Nathan LeRoux
+Purpose: See lock.cpp
+*/
+
 #ifndef _LOCK_H
 #define _LOCK_H
 

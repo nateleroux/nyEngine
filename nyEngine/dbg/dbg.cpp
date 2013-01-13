@@ -1,3 +1,9 @@
+/*
+Name: dbg.cpp
+Author: Nathan LeRoux
+Purpose: Debugging utilities
+*/
+
 #include "..\include.h"
 #include "..\nyEngine.rc"
 

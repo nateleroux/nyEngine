@@ -1,3 +1,9 @@
+/*
+Name: LuaManager.h
+Author: Nathan LeRoux
+Purpose: See LuaManager.cpp
+*/
+
 #ifndef _LUAMANAGER_H
 #define _LUAMANAGER_H
 

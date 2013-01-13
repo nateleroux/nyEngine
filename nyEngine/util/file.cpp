@@ -1,3 +1,9 @@
+/*
+Name: file.cpp
+Author: Nathan LeRoux
+Purpose: File reading and writing
+*/
+
 #include "..\include.h"
 
 file::file()

@@ -1,3 +1,9 @@
+/*
+Name: game.cpp
+Author: Nathan LeRoux
+Purpose: Gameplay logic
+*/
+
 #include "..\include.h"
 #include "game.h"
 #ifdef _WIN32

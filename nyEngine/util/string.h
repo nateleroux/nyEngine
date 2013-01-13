@@ -1,3 +1,9 @@
+/*
+Name: string.h
+Author: Nathan LeRoux
+Purpose: See string.cpp
+*/
+
 #ifndef _STRING_H
 #define _STRING_H
 

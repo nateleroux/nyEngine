@@ -1,3 +1,9 @@
+/*
+Name: win32.cpp
+Author: Nathan LeRoux
+Purpose: Windows specific code
+*/
+
 #include "..\include.h"
 #include "..\game\game.h"
 

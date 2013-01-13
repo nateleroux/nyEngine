@@ -1,3 +1,9 @@
+/*
+Name: lock.cpp
+Author: Nathan LeRoux
+Purpose: Thread synchronization
+*/
+
 #include "..\include.h"
 
 #ifdef _WIN32

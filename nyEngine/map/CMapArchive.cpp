@@ -1,3 +1,9 @@
+/*
+Name: CMapArchive.cpp
+Author: Nathan LeRoux
+Purpose: Allows OGRE to use my map files when searching for resources
+*/
+
 #define SUPPRESS_DEBUG_NEW
 
 #include "..\include.h"

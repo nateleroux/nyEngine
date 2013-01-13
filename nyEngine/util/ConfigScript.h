@@ -1,5 +1,12 @@
-//This code is public domain - you can do whatever you want with it
-//Original author: John Judnich
+/*
+Name: ConfigScript.h
+Author: John Judnich
+Purpose: See ConfigScript.cpp
+
+Source:
+http://www.ogre3d.org/tikiwiki/tiki-index.php?page=All-purpose+script+parser
+*/
+
 #ifndef _CONFIGSCRIPT_H__
 #define _CONFIGSCRIPT_H__
  

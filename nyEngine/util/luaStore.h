@@ -1,3 +1,9 @@
+/*
+Name: luaStore.h
+Author: Nathan LeRoux
+Purpose: See luaStore.cpp
+*/
+
 #ifndef _LUASTORE_H
 #define _LUASTORE_H
 

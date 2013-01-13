@@ -1,3 +1,9 @@
+/*
+Name: Var.cpp
+Author: Nathan LeRoux
+Purpose: Game variable management
+*/
+
 #include "..\include.h"
 
 CVar * varList[VAR_MAX_COUNT] = {0};

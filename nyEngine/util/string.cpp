@@ -1,3 +1,9 @@
+/*
+Name: string.cpp
+Author: Nathan LeRoux
+Purpose: String manipulation
+*/
+
 #include "..\include.h"
 
 string::string()

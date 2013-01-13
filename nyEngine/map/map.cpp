@@ -1,3 +1,9 @@
+/*
+Name: map.cpp
+Author: Nathan LeRoux
+Purpose: Process resource archive files
+*/
+
 #include "..\include.h"
 #include "..\util\LuaManager.h"
 #include <io.h>

@@ -1,3 +1,9 @@
+/*
+Name: GorillaLua.h
+Author: Nathan LeRoux
+Purpose: See GorillaLua.cpp
+*/
+
 #ifndef _GORILLA_LUA
 #define _GORILLA_LUA
 

@@ -1,3 +1,9 @@
+/*
+Name: LuaManager.cpp
+Author: Nathan LeRoux
+Purpose: Game scripting
+*/
+
 #include "..\include.h"
 #include "LuaManager.h"
 #include "..\game\game.h"

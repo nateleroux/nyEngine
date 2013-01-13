@@ -1,3 +1,9 @@
+/*
+Name: CMapLoader.cpp
+Author: Nathan LeRoux
+Purpose: Manage resource archive files
+*/
+
 #include "..\include.h"
 
 #include <OgreRoot.h>

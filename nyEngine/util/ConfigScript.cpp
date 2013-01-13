@@ -1,3 +1,12 @@
+/*
+Name: ConfigScript.cpp
+Author: John Judnich, modified by Nathan LeRoux
+Purpose: All-purpose script parser
+
+Source:
+http://www.ogre3d.org/tikiwiki/tiki-index.php?page=All-purpose+script+parser
+*/
+
 #include "..\include.h"
 #include "ConfigScript.h"
  

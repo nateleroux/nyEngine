@@ -2,9 +2,9 @@
 // This file is a giant hack because i dont want to have to fuck with the version number plugin
 
 char versionNumber[0x80] = "\
-PRODUCTVERSION 0001.0.557.0429 ";
+PRODUCTVERSION 0001.0.559.1054 ";
 
 // This is here to make the plugin happy, it doesn't actually matter though
 /*
-VALUE "ProductVersion", "1.0.557.0429"
+VALUE "ProductVersion", "1.0.559.1054"
 */

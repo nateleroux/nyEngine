@@ -1206,7 +1206,7 @@ void CLuaManager::setupLuaFunctions()
 	addLuaFunction(l_scripttotable, "scripttotable");
 
 	// Gorilla
-	RegisterGorilla(_addLuaFunction, L);
+	//RegisterGorilla(_addLuaFunction, L);
 }
 
 void * CLuaManager::getNewThreadId()

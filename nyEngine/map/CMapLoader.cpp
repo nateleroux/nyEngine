@@ -303,7 +303,9 @@ void CMapLoader::ReloadMaterials()
 	for(i = mapList.begin();i != mapList.end();i++)
 	{
 		LoadMaterials(i->map);
-		LoadMaterials(i->patch);
+
+		if(i->patch)
+			LoadMaterials(i->patch);
 	}
 }
 

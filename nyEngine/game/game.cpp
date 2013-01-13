@@ -69,11 +69,12 @@ void GameApplication::initializeScene()
 	// so we can keep track of it and unload the map when the level is done
 	LOADED_MAP map, common;
 	maploader.LoadMap("sp_common", &common, true);
-	maploader.LoadMap("sp_helloworld", &map);
+	maploader.LoadMap("sp_shootemup", &map);
+	//maploader.LoadMap("sp_helloworld", &map);
 	maploader.SetupScripts();
 
 	// testing
-#if 1
+#if 0
 	file f;
 	if(f.openWrite("script.sav"))
 	{
@@ -87,15 +88,15 @@ void GameApplication::initializeScene()
 		SoundManager->setDistanceModel(AL_LINEAR_DISTANCE);
 		OgreOggSound::OgreOggISound * sound = NULL;
 		//sound = SoundManager->createSound("NewSound", "sp/helloworld/audio/soundfile.ogg", false, true);
-		sound = SoundManager->createSound("NewSound", "sp/helloworld/audio/soundfile.ogg", true, true);
-		Ogre::SceneNode * node = mSceneMgr->getRootSceneNode()->createChildSceneNode();
-		node->attachObject(sound);
-		audioNode->attachObject(SoundManager->getListener());
+		//sound = SoundManager->createSound("NewSound", "sp/helloworld/audio/soundfile.ogg", true, true);
+		//Ogre::SceneNode * node = mSceneMgr->getRootSceneNode()->createChildSceneNode();
+		//node->attachObject(sound);
+		//audioNode->attachObject(SoundManager->getListener());
 
-		sound->setReferenceDistance(50);
-		sound->setMaxDistance(1000);
+		//sound->setReferenceDistance(50);
+		//sound->setMaxDistance(1000);
 		
-		sound->play();
+		//sound->play();
 	}
 }
 
